@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-naveeneee48-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveeneee48/)](https://www.linkedin.com/in/naveeneee48/)
 [![Gmail Badge](https://img.shields.io/badge/-naveeneee48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naveeneee48@gmail.com)](mailto:naveeneee48@gmail.com) 
 
-- 🎯 My Portfolio website: [Portfolio](https://naveeneee48.github.io/)
+- 🎯 My Portfolio website: [naveeneee48.github.io](https://naveeneee48.github.io/)
 ---
 **Things I love:** 
   - Automating everything 🚀

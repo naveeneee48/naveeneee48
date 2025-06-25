@@ -21,6 +21,7 @@ Here's a glimpse of the technologies I work with daily:
 - **Cloud Providers:** AWS, Azure, GCP
 - **Containers and Orchestration:** Docker, Kubernetes, Helm
 - **Infrastructure as Code:** Terraform, Ansible, CloudFormation
+- **Workflow Automation:** n8n
 - **Monitoring and Logging:** Prometheus, Grafana, ELK Stack, CloudWatch
 - **Scripting Languages:** Bash, Python, Go
 

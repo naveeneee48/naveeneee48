@@ -22,6 +22,7 @@ Here's a glimpse of the technologies I work with daily:
 - **Containers and Orchestration:** Docker, Kubernetes, Helm
 - **Infrastructure as Code:** Terraform, Ansible, CloudFormation
 - **Workflow Automation:** n8n
+- - **Configuration Management:** SaltStack
 - **Monitoring and Logging:** Prometheus, Grafana, ELK Stack, CloudWatch
 - **Scripting Languages:** Bash, Python, Go
 

@@ -15,16 +15,17 @@
 ---
 
 ## 🔧 My Toolbox
-Here's a glimpse of the technologies I work with daily:
+I work across the full DevOps and AIOps spectrum — automating infrastructure, integrating AI workflows, and building self-healing systems.
 
 - **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI, ArgoCD
 - **Cloud Providers:** AWS, Azure, GCP
 - **Containers and Orchestration:** Docker, Kubernetes, Helm
 - **Infrastructure as Code:** Terraform, Ansible, CloudFormation
-- **Workflow Automation:** n8n
+- **Automation & AIOps:** n8n, Slack + PagerDuty Integration, MCP Server Architecture
 - **Configuration Management:** SaltStack
 - **Monitoring and Logging:** Prometheus, Grafana, ELK Stack, CloudWatch
 - **Scripting Languages:** Bash, Python, Go
+- **Specialties:** AI-powered RCA, Automated Access Key Rotation, Self-Healing Infrastructure
 
 ---
 
